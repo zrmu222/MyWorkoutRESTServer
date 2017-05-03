@@ -1,0 +1,24 @@
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\bin\Debug\DatebaseManager.exe.config
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\bin\Debug\DatebaseManager.exe
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\bin\Debug\DatebaseManager.pdb
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\obj\Debug\DatebaseManager.exe
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\obj\Debug\DatebaseManager.pdb
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\DatebaseManager\obj\Debug\DatebaseManager.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.exe.config
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.exe
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.pdb
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.exe
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.pdb
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.exe.config
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.exe
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\bin\Debug\DatebaseManager.pdb
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.exe
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\DatebaseManager\obj\Debug\DatebaseManager.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\bin\Debug\DatebaseManager.exe.config
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\bin\Debug\DatebaseManager.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\bin\Debug\DatebaseManager.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\obj\Debug\DatebaseManager.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\obj\Debug\DatebaseManager.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\DatebaseManager\obj\Debug\DatebaseManager.pdb

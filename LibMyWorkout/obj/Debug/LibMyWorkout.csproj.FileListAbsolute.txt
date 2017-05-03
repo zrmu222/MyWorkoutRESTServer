@@ -1,0 +1,19 @@
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\LibMyWorkout\bin\Debug\LibMyWorkout.dll
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\LibMyWorkout\bin\Debug\LibMyWorkout.pdb
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\LibMyWorkout\obj\Debug\LibMyWorkout.dll
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\LibMyWorkout\obj\Debug\LibMyWorkout.pdb
+C:\Users\Lee\Documents\GitHub\MyWorkoutServer\LibMyWorkout\obj\Debug\LibMyWorkout.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\LibMyWorkout\bin\Debug\LibMyWorkout.dll
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\LibMyWorkout\bin\Debug\LibMyWorkout.pdb
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.dll
+C:\Users\Lee\Documents\Visual Studio 2015\Projects\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.pdb
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\LibMyWorkout\bin\Debug\LibMyWorkout.dll
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\LibMyWorkout\bin\Debug\LibMyWorkout.pdb
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.dll
+C:\Users\Zack\Documents\GitHub\MyWorkoutWCF\LibMyWorkout\obj\Debug\LibMyWorkout.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\LibMyWorkout\bin\Debug\LibMyWorkout.dll
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\LibMyWorkout\bin\Debug\LibMyWorkout.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\LibMyWorkout\obj\Debug\LibMyWorkout.dll
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\MyWorkoutRESTServer\LibMyWorkout\obj\Debug\LibMyWorkout.pdb
